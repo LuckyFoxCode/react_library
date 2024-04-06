@@ -1,9 +1,7 @@
-import { Button } from './components/common';
-
 export const App = () => {
   return (
     <>
-      <Button title='buy' />
+      <h1>Brooklyn Public Library</h1>
     </>
   );
 };
